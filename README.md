@@ -1,4 +1,5 @@
-### Hi there 👋  WE are a team of poeple who belive in the impact of games and we want to create games that will bring hope to the society
+### Hi there 👋  
+##WE are a team of poeple who belive in the impact of games and we want to create games that will bring hope to the society
 🌱 We are currently learning how to work in this medium.
 <!--
 **lightyork/lightyork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
